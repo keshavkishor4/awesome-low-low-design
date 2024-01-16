@@ -1,0 +1,463 @@
+Master system design, learn these case studies:
+
+
+16) AWS Scalability 101: https://lnkd.in/eU736g9Q
+
+15) Actor Model at PayPal: https://lnkd.in/eqcb7MpP
+
+14) Distributed Counter: https://lnkd.in/eGwaA62J
+
+13) User Online Status Indicator: https://lnkd.in/eW77FXAh
+
+12) Scalability 101 from LinkedIn: https://lnkd.in/eEKMn28h
+
+11) Microservices vs Monolith: https://lnkd.in/e3EBtg_v
+
+10) Rate Limiting at Stripe: https://lnkd.in/g2aM5jxG
+
+9) Gaming Leaderboard: https://lnkd.in/edfTDq5R
+
+8) Real-Time Live Comments: https://lnkd.in/e8g3dZ2i
+
+7) How Uber Computes ETA: https://lnkd.in/eVKV2ePC
+
+6) URL Shortener: https://lnkd.in/evFTZVQq
+
+5) Slack Architecture: https://lnkd.in/eATMDjrK
+
+4) Zoom Architecture: https://lnkd.in/edidhxZw
+
+3) Pastebin: https://lnkd.in/eZpfaVjc
+
+2) Virtual Waiting Room Architecture: https://lnkd.in/eD3kPiPv
+
+1) How Does Netflix Work?: https://lnkd.in/ehqyWMiW
+
+23) Content Delivery Network ELI5
+
+https://lnkd.in/g9qCiRmj
+
+
+22) Back of the Envelope
+
+https://lnkd.in/ev358pj3
+
+
+21) Scalability 101 from WhatsApp
+
+https://lnkd.in/gRqBgXfc
+
+
+20) Micro Frontends
+
+https://lnkd.in/edTX-qnP
+
+
+19) Protocol Buffers vs JSON at LinkedIn
+
+https://lnkd.in/egcFxe2t
+
+
+18) Quotient Filters
+
+https://lnkd.in/e6nTXKDY
+
+
+17) Consistent Hashing
+
+https://lnkd.in/eUP9DbCg
+
+
+16) Microservices Lessons From Netflix
+
+https://lnkd.in/eZSM3CRB
+
+
+15) Caching Patterns
+
+https://lnkd.in/gJ8kWMxZ
+
+
+14) What Happens When You Type a URL Into Your Browser?
+
+https://lnkd.in/eusuDn5z
+
+
+13) Consistency Patterns
+
+https://lnkd.in/eFcxHisf
+
+
+12) Hinted Handoff
+
+https://lnkd.in/eM-CqK9f
+
+
+11) Gossip Protocol
+
+https://lnkd.in/eBtqUVB6
+
+
+10) Service Discovery
+
+https://lnkd.in/eCYYwQfU
+
+
+9) URL Shortener
+
+https://lnkd.in/evFTZVQq
+
+
+8) Bloom Filters
+
+https://lnkd.in/e2duES7s
+
+
+7) How to Scale an App to 10 Million Users on AWS
+
+https://lnkd.in/eU736g9Q
+
+
+6) Scalability 101 from LinkedIn
+
+https://lnkd.in/eEKMn28h
+
+
+5) How to Troubleshoot if You Can’t Access a Particular Website?
+
+https://lnkd.in/eER3Ci-X
+
+
+4) Database Migration Strategy
+
+https://lnkd.in/gVeT86kj
+
+
+3) Actor Model at PayPal
+
+https://lnkd.in/eqcb7MpP
+
+
+2) Tech Stack Evolution at Levels-fyi
+
+https://lnkd.in/gUPSJEtN
+
+
+1) Rate Limiting at Stripe
+
+https://lnkd.in/g2aM5jxG
+
+More than 100 million developers are using GitHub.
+
+But many of them don't know the most useful repositories.
+
+Here are some repositories that provide incredible value for free:
+
+
+9) Path to Senior Engineer Handbook by Jordan Cutler
+
+https://lnkd.in/exkJCxVi
+
+
+8) Tech interview handbook by Yangshun Tay
+
+https://lnkd.in/e7EjsJNF
+
+
+7) You don't know JavaScript by Kyle Simpson
+
+https://lnkd.in/eua7KvPC
+
+
+6) Papers we love
+
+https://lnkd.in/eGcbN9RR
+
+
+5) System design primer
+
+https://lnkd.in/eFyMhK6Z
+
+
+4) Developer roadmap
+
+https://lnkd.in/e9MuB_Yg
+
+
+3) Freecodecamp
+
+https://lnkd.in/e_4pA8xV
+
+
+2) Free programming books
+
+https://lnkd.in/eXAzAJ3M
+
+
+1) Web development for beginners by Microsoft
+
+https://lnkd.in/evM43KHy
+
+
+12) Instagram Engineering
+
+https://lnkd.in/eRGWXg_4
+
+
+11) Pinterest Engineering
+
+https://lnkd.in/essEYAH4
+
+
+10) Dropbox Tech
+
+https://dropbox.tech/
+
+
+9) Yelp Engineering
+
+https://lnkd.in/erpHN5Vb
+
+
+8) Disney+ Hotstar
+
+https://blog.hotstar.com/
+
+
+7) Figma Engineering
+
+https://lnkd.in/eaNBGRzP
+
+
+6) GitHub Engineering
+
+https://lnkd.in/eyQzRyQd
+
+
+5) Jane Street Tech Blog
+
+https://lnkd.in/eJNx29X2
+
+
+4) Twilio Blog
+
+https://lnkd.in/efGrfR5r
+
+
+3) Reddit Engineering
+
+https://lnkd.in/eTChCedN
+
+
+2) Groupon Engineering
+
+https://lnkd.in/eCcpv_C4
+
+
+1) Shopify Engineering
+
+https://lnkd.in/er75nPMi
+
+13) Spotify Engineering
+
+https://lnkd.in/emSVH3iM
+
+
+12) Atlassian Developers
+
+https://lnkd.in/eSM3U6eT
+
+
+11) Airbnb Tech Blog
+
+https://lnkd.in/ek-cknGC
+
+
+10) AWS Blog
+
+https://lnkd.in/eDr3yvJj
+
+
+9) Meta Engineering
+
+https://lnkd.in/eVQSJBPG
+
+
+8) Google Research
+
+https://lnkd.in/eWm5P2aw
+
+
+7) LinkedIn Engineering
+
+https://lnkd.in/epstQPwY
+
+
+6) Microsoft Engineering
+
+https://lnkd.in/eeZXAmuS
+
+
+5) Netflix Tech Blog
+
+https://lnkd.in/egTKY6qE
+
+
+4) PayPal Technology Blog
+
+https://lnkd.in/etxBzd3N
+
+
+3) Slack Engineering
+
+https://slack.engineering/
+
+
+2) Twitter X Engineering
+
+https://lnkd.in/eTkWMN-7
+
+
+1) Uber Engineering
+
+https://lnkd.in/ezNfT7ev
+
+17) Consistent Hashing
+
+https://lnkd.in/eUP9DbCg
+
+
+16) Microservices Lessons From Netflix
+
+https://lnkd.in/eZSM3CRB
+
+
+15) Caching Patterns
+
+https://lnkd.in/gJ8kWMxZ
+
+
+14) What Happens When You Type a URL Into Your Browser?
+
+https://lnkd.in/eusuDn5z
+
+
+13) Consistency Patterns
+
+https://lnkd.in/eFcxHisf
+
+
+12) Hinted Handoff
+
+https://lnkd.in/eM-CqK9f
+
+
+11) Gossip Protocol
+
+https://lnkd.in/eBtqUVB6
+
+
+10) Service Discovery
+
+https://lnkd.in/eCYYwQfU
+
+
+9) Back of the Envelope
+
+https://lnkd.in/ev358pj3
+
+
+8) Bloom Filters
+
+https://lnkd.in/e2duES7s
+
+
+7) How to Scale an App to 10 Million Users on AWS
+
+https://lnkd.in/eU736g9Q
+
+
+6) Scalability 101 from LinkedIn
+
+https://lnkd.in/eEKMn28h
+
+
+5) Protocol Buffers vs JSON
+
+https://lnkd.in/egcFxe2t
+
+
+4) Database Migration Strategy
+
+https://lnkd.in/gVeT86kj
+
+
+3) Micro Frontends
+
+https://lnkd.in/edTX-qnP
+
+
+2) Content Delivery Network
+
+https://lnkd.in/g9qCiRmj
+
+
+1) Rate Limiter
+
+https://lnkd.in/g2aM5jxG
+
+
+
+11) Gaming Leaderboard
+
+https://lnkd.in/edfTDq5R
+
+
+10) Real-Time Live Comments
+
+https://lnkd.in/e8g3dZ2i
+
+
+9) How Uber Computes ETA
+
+https://lnkd.in/eVKV2ePC
+
+
+8) URL Shortener
+
+https://lnkd.in/evFTZVQq
+
+
+7) Slack Architecture
+
+https://lnkd.in/eATMDjrK
+
+
+6) Zoom Architecture
+
+https://lnkd.in/edidhxZw
+
+
+5) Distributed Counter
+
+https://lnkd.in/eGwaA62J
+
+
+4) Virtual Waiting Room Architecture
+
+https://lnkd.in/eD3kPiPv
+
+
+3) Pastebin
+
+https://lnkd.in/eZpfaVjc
+
+
+2) User Online Status Indicator
+
+https://lnkd.in/eW77FXAh
+
+
+1) How Does Netflix Work?
+
+https://lnkd.in/ehqyWMiW
